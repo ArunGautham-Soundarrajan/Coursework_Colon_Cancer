@@ -10,10 +10,10 @@ Digital pathology aims to apply machine learning to digital pathology images lik
 
 The overall goal for this data science task is to train a deep neural network which can take a 64x64 image with a cell nuclei at the centre and classify it into one of the following types,
 
-* Normal epithelial cells (shown orange).
-* Cancer epithelial cells (shown in red).
-* Immune Leukocyte cells (shown in green).
-* Connective fibroblast cells (shown in blue).
+* Normal epithelial cells.
+* Cancer epithelial cells.
+* Immune Leukocyte cells.
+* Connective fibroblast cells.
 
 # Code and Resources Used
 * Python Version : 3.7.6
